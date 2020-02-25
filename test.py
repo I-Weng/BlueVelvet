@@ -1,5 +1,4 @@
-print ("BlueVelvet")
+print("BlueVelvet")
 
-print ("Irene")
-
-print ("David")
+print("Irene")
+print("David")
