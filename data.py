@@ -66,8 +66,8 @@ import math #import the math module
 x = 9
 
 # Code here
-
-
+print(math.sqrt(x))
+print(math.sqrt(9))
 
 
 
