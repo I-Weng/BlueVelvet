@@ -21,7 +21,7 @@ y = 2
 
 # Code here
 
-x%3
+x %= 3
 print(x+y)
 
 
@@ -53,7 +53,7 @@ x = 8
 y = 3
 
 # Code here
-z = %(x/y)
+z 
 
 
 
