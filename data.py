@@ -24,8 +24,6 @@ y = 2
 x %= 3
 print(x+y)
 
-
-
 ############ 
 # Q3. Print the sum of the 2 results:
 # x divided by y  
@@ -39,7 +37,8 @@ y = 3
 
 # Code here
 
-print(x/y + y*x)
+print((x/y) + (y*x))
+
 ############ Q4.
 # 1) Create a new variable, z
 # 2) Assign the remainder of x divided by y to variable z
@@ -53,10 +52,11 @@ x = 8
 y = 3
 
 # Code here
-z = x % y
-x*z
-x /= x*z
-print (x)
+
+z = (x%y)
+x /= (x*z)
+print(x)
+
 ############# Q5. Print the square root of x IN 2 DIFFERENT WAYS ############
 # Topic: arithmetic operators
 # Hint: x to what power equals the square root of x?
