@@ -53,12 +53,10 @@ x = 8
 y = 3
 
 # Code here
-z 
-
-
-
-
-
+z = x % y
+x*z
+x /= x*z
+print (x)
 ############# Q5. Print the square root of x IN 2 DIFFERENT WAYS ############
 # Topic: arithmetic operators
 # Hint: x to what power equals the square root of x?
