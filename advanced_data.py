@@ -26,9 +26,8 @@ numbers = [4, 9, 16, 25]
 
 # Code here
 
-numbers[1] + numbers[3]
-numbers.append[1+3]
-print(numbers.append(numbers[1] + numbers[3]))
+numbers.append(numbers[1] + numbers[3])
+print(numbers)
 
 ############# Q12. Fill in the missing number between 16 and 36 and print the result ############
 # Topic: lists, list functions
@@ -37,9 +36,8 @@ numbers = [4, 9, 16, 36]
 
 # Code here
 
-
-
-
+numbers.input(3, 25)
+print(numbers)
 
 ############# Q13. Remove the element that breaks the pattern and print the result ############
 # Topic: lists, list functions
