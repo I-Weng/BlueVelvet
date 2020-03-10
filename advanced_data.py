@@ -14,11 +14,10 @@ numbers = [4, 9, 16, 25]
 
 # Code here
 
-
-
-
-
-
+numbers.append(36)
+numbers.append(49)
+numbers.append(64)
+print(numbers)
 
 ############# Q11. Append the sum of the 2nd and 4th element in the list "numbers" to itself and print the result ############
 # Topic: lists, list functions
@@ -27,7 +26,8 @@ numbers = [4, 9, 16, 25]
 
 # Code here
 
-
+numbers.append(numbers[1] + numbers[3])
+print(numbers)
 
 
 
