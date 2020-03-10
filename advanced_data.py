@@ -4,12 +4,7 @@
 numbers = (4, 9, 16, 36)
 
 # Code here
-<<<<<<< HEAD
-
-print(numbers[0] + numbers[2])
-=======
 print(numbers[0] + numbers[2]) 
->>>>>>> af2ef05c8bbedcb4e2b66c73fcc0c1cff3a60934
 
 ############# Q10. Fill out the next 3 numbers in the pattern using the append() function and print the result ############
 # Topic: lists, list functions
@@ -40,7 +35,7 @@ numbers = [4, 9, 16, 36]
 
 # Code here
 
-numbers.input(3, 25)
+numbers.insert(3, 25)
 print(numbers)
 
 ############# Q13. Remove the element that breaks the pattern and print the result ############
@@ -48,13 +43,10 @@ print(numbers)
 
 numbers = [3, 9, 16, 25, 36]
 
+# Code here
 
-
-
-
-
-
-
+numbers.pop(0)
+print(numbers)
 
 ############# 
 # Q14. Create a dictionary with the following data and print the dictionary:
@@ -67,14 +59,13 @@ numbers = [3, 9, 16, 25, 36]
 
 # Code here
 
+Money = {
+    "Alex": "$100",
+    "Kevin": "$50",
+    "Henry": "$500"
+}
 
-
-
-
-
-
-
-
+print(Money)
 
 ############# 
 # Q15 A. Create a dictionary with the following transactions and print the dictionary:
