@@ -4,8 +4,12 @@
 numbers = (4, 9, 16, 36)
 
 # Code here
+<<<<<<< HEAD
 
 print(numbers[0] + numbers[2])
+=======
+print(numbers[0] + numbers[2]) 
+>>>>>>> af2ef05c8bbedcb4e2b66c73fcc0c1cff3a60934
 
 ############# Q10. Fill out the next 3 numbers in the pattern using the append() function and print the result ############
 # Topic: lists, list functions
