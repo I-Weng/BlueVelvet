@@ -4,8 +4,7 @@
 numbers = (4, 9, 16, 36)
 
 # Code here
-
-print(4+9)
+print(numbers[0] + numbers[2]) 
 
 ############# Q10. Fill out the next 3 nubmers in the pattern using the append() function and print the result ############
 # Topic: lists, list functions
