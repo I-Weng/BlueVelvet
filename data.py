@@ -66,15 +66,9 @@ import math #import the math module
 x = 9
 
 # Code here
-<<<<<<< HEAD
 print(math.sqrt(x))
 print(x**(1/2))
 
-=======
-
-print (math.sqrt(x))
-# print (x^(1/2))
->>>>>>> a2a59125fc66732cb6954122dd07429a72d60050
 
 ############# Q6. print the phrase "hello world" using the 2 variables defined below ############
 # Topic: string concatenation
